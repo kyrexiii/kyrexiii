@@ -29,16 +29,6 @@ Vercel, GitHub, pm2, VS Code, SSH, Linux (Ubuntu/Debian), Cloudflare, Docker (a 
 
 ---
 
-## <img src="https://cdn.discordapp.com/emojis/1316402444632199208.webp" width="24" height="24"/> Fun (and Dumb) Facts  
-
-- My Wi-Fi is named `Byte Me`, password is `rm -rf /*`  
-- I failed math but debug async bugs like a pro  
-- I use AI. It’s not cheating, it’s teamwork <img src="https://cdn.discordapp.com/emojis/1316402430719688708.webp" width="24" height="24"/> 
-- I can build a full app but take 2 hours to align one button  
-- Introvert IRL, but full-stack menace online <img src="https://cdn.discordapp.com/emojis/1341071475590959297.webp" width="24" height="24"/>
-
----
-
 ## <img src="https://cdn.discordapp.com/emojis/1341071468544397342.webp" width="24" height="24"/> Current Mission
 
 Make cool stuff. Break things. Fix them.  
