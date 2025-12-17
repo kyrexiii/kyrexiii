@@ -1,42 +1,44 @@
-# <img src="https://cdn.discordapp.com/emojis/1316402413107941487.webp" width="24" height="24"/> Hi, I'm Haruka
+# <img src="https://cdn.discordapp.com/emojis/1450822842055655525.webp" width="26" height="26"/> Haruka
 
-> Failed 10th math 3 times. Passed on the 4th try. Everyone laughed at me — until they needed a website.  
-> Also, cute but dangerous <img src="https://cdn.discordapp.com/emojis/1316402431705350177.webp" width="24" height="24"/>
-
----
-
-## <img src="https://cdn.discordapp.com/emojis/1341115175599865866.webp" width="24" height="24"/> Who Am I?
-
-Started from skidding Discord bots to learning real development, all by myself — no paid courses, just curiosity, trial & error, and Google.
-
-> School ne bola \"focus on math,\" but mann bola \"npm install krte hai.\" <img src="https://cdn.discordapp.com/emojis/1316402447035666433.webp" width="24" height="24"/>
-
-> **contact@haruka.lol**  
-> [haruka.lol](https://haruka.lol)
+Software engineer focused on building reliable, scalable web platforms with clean architecture and long-term maintainability.
 
 ---
 
-## <img src="https://cdn.discordapp.com/emojis/1316402438898716784.webp" width="24" height="24"/> Tech I Pretend To Know  
+## About
 
-**Frontend:**  
-Next.js (App Router), React, JavaScript, TypeScript, TailwindCSS
+Self-taught developer with hands-on experience taking ideas from early prototypes to structured, production-ready systems.  
+Strong interest in cloud infrastructure, developer tooling, and performance-oriented design.
 
-**Backend:**  
-Node.js, Express, Prisma, PostgreSQL, Redis (kabhi chalta hai, kabhi nahi), WebSockets, REST APIs
+I prioritize clarity, consistency, and operational stability over unnecessary complexity.
 
-**Dev Tools:**  
-Vercel, GitHub, pm2, VS Code, SSH, Linux (Ubuntu/Debian), Cloudflare, Docker (a bit), and yes — AI tools like ChatGPT to save time and braincells
-
----
-
-## <img src="https://cdn.discordapp.com/emojis/1341071468544397342.webp" width="24" height="24"/> Current Mission
-
-Make cool stuff. Break things. Fix them.  
-Repeat until I accidentally become successful.
+**Contact**  
+contact@haruka.lol  
+https://haruka.lol
 
 ---
 
-> Still learning, still grinding, still cute. <img src="https://cdn.discordapp.com/emojis/1316402437673844796.webp" width="24" height="24"/>
+## Technical Focus
+
+**Frontend**  
+Next.js (App Router) · React · TypeScript · JavaScript · Tailwind CSS  
+
+**Backend**  
+Node.js · Golang · Express · Prisma · PostgreSQL · Redis  
+WebSockets · RESTful APIs  
+
+**Infrastructure & Tooling**  
+Linux (Ubuntu / Debian) · SSH · PM2  
+Vercel · Cloudflare · Docker  
+GitHub · VS Code
+
+---
+
+## Current Work
+
+Designing and operating modern web services with an emphasis on:
+- Stability and security  
+- Clean system boundaries  
+- Scalable infrastructure patterns  
 
 ---
 
