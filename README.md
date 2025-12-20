@@ -12,7 +12,7 @@ Strong interest in cloud infrastructure, developer tooling, and performance-orie
 I prioritize clarity, consistency, and operational stability over unnecessary complexity.
 
 **Contact**  
-contact@haruka.lol  
+hi@haruka.lol  
 https://haruka.lol
 
 ---
