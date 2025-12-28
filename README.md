@@ -1,4 +1,4 @@
-# <img src="https://cdn.discordapp.com/emojis/1450822842055655525.webp" width="26" height="26"/> Haruka
+# <img src="https://cdn.discordapp.com/emojis/1454712794770309301.webp" width="26" height="26"/> Haruka
 
 Software engineer focused on building reliable, scalable web platforms with clean architecture and long-term maintainability.
 
