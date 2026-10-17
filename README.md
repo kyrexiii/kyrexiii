@@ -24,7 +24,7 @@ Some projects are public. Some stay private until they stop being messy.
 
 ---
 
-# <img src="https://cdn.discordapp.com/emojis/1454712794770309301.webp" width="26" height="26"/> Arqora
+# <img src="https://arqora.be/assets/mark/light/png/arqora-mark-1024.png" width="26" height="26"/> Arqora
 
 Arqora is a private digital organization for software, systems, experiments, and ideas that usually start quietly before they become serious.
 
